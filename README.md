@@ -1,4 +1,5 @@
-#Librería WhatsApp
+# Librería WhatsApp
+
 Descripción
 Librería WhatsApp es un proyecto que facilita la integración o automatización de funcionalidades relacionadas con WhatsApp, permitiendo enviar mensajes, gestionar contactos o interactuar con la plataforma de forma programática.
 
@@ -32,7 +33,7 @@ bash
 Copiar
 Editar
 npm install
-# o el comando correspondiente según el lenguaje
+o el comando correspondiente según el lenguaje
 Configura las variables necesarias (tokens, números, etc.)
 
 Ejecuta el proyecto o importa la librería en tu aplicación.

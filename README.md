@@ -1,4 +1,4 @@
-Librería WhatsApp
+#Librería WhatsApp
 Descripción
 Librería WhatsApp es un proyecto que facilita la integración o automatización de funcionalidades relacionadas con WhatsApp, permitiendo enviar mensajes, gestionar contactos o interactuar con la plataforma de forma programática.
 
